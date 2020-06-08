@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a.active .rollOutState,
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a:hover .rollOutState,
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a.active .rollOverState,
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a:hover .rollOverState{
+	left: 0;
+}
+
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a.active .rollOverState,
+.sidebarToolsDesktopReview .buttonListWrapper .buttonList li a:hover .rollOverState{
+	opacity: 0;
+}
